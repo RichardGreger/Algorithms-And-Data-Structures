@@ -1,4 +1,4 @@
-package org.pg4200.ex02;
+package org.pg4200.ex02.sep25;
 
 public class MyLinkedList25<T> {
 

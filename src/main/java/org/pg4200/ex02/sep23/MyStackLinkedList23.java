@@ -1,4 +1,4 @@
-package org.pg4200.ex02;
+package org.pg4200.ex02.sep23;
 
 /**
  * Created by richardgreger on 23-Sep-19.

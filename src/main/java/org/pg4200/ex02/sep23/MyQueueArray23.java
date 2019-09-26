@@ -1,4 +1,4 @@
-package org.pg4200.ex02;
+package org.pg4200.ex02.sep23;
 
 
 public class MyQueueArray23<T>{
